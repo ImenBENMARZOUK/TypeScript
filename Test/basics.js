@@ -101,6 +101,8 @@ console.log("", anyValue); // true
 // Use any only as a last resort, like in quick prototypes or when gradually migrating JS to TS.
 //Void => a type that represents the absence of a value, used for functions that don't return anything
 function myFunction() {
-    console.log("This function does not return anything - basics.ts:121 - basics.js:104");
+    console.log("This function does not return anything - basics.ts:121");
 }
 myFunction(); // This function does not return anything
+// commit3
+//commit4

@@ -122,3 +122,4 @@ function myFunction(): void {
 }
 myFunction(); // This function does not return anything
 // commit3
+//commit4
