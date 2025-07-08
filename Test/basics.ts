@@ -120,3 +120,4 @@ console.log("", anyValue); // true
 function myFunction(): void {
     console.log("This function does not return anything - basics.ts:121");
 }
+myFunction(); // This function does not return anything
